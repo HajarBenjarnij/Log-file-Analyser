@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/benidder/IdeaProjects/Stream_project/target/scala-2.13/streaming_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamProject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/benidder/IdeaProjects/Stream_project/target/scala-2.13/classes/StreamProject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamProject$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/benidder/IdeaProjects/Stream_project/target/scala-2.13/classes/StreamProject$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamProject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/benidder/IdeaProjects/Stream_project/target/scala-2.13/classes/StreamProject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

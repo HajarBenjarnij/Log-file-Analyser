@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/benidder/IdeaProjects/Stream_project/src/main/scala/Stream.scala:44:4: a pure expression does nothing in statement position; multiline expressions may require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m   mapped[0m
+[0m[[0m[33mwarn[0m] [0m[0m   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
